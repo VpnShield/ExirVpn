@@ -1,10 +1,10 @@
 {
-  "Title": "☆  بروزرسانی جدید  ☆",
-  "Description": "سلام دوست عزیزم 🌺\r\n\r\n- این نسخه از کار افتاده ، نسخه جدید پرسرعت ، مود و منتشر شده رو از کانال تلگرام ما دریافت کنید 🤍",
-  "Link": "tg://resolve?domain=Vpn_Shield",
-  "ColorWave": "#ffff00",
-  "Color": "#ffff00",
-  "ColorWaveTwo": "#ffd600",
+  "Title": "❗️ اطلاعیه مهم ❗️",
+  "Description": "طبق خبرها یزودی اختلال شدیدی روی اینترنت اعمال میشه ، برای جلوگیری از قطع اتصال شما فورا عضو کانال تلگرامی تیم ما شوید 🙏❤️",
+  "Link": "tg://join?invite=VYNheWxRgDo0MTg0",
+  "ColorWave": "#00ffff",
+  "Color": "#ffa500",
+  "ColorWaveTwo": "#007cf7",
   "ColorBackGround": "#ffffff",
   "TitleGravity": "center",
   "MessageGravity": "center",
@@ -14,11 +14,11 @@
   "ColorBtnBg": "#00a043",
   "ColorBtnCancell": "#ffffff",
   "ColorBtnCancellBg": "#e90000",
-  "Cancellable": "true",
-  "MessageID": "1",
-  "ShowTime": "999",
-  "Button": "  دریافت نسخه جدید  ",
-  "ButtonCancell": " بعدا ",
+  "Cancellable": "false",
+  "MessageID": "3602786700662416",
+  "ShowTime": "3",
+  "Button": " عضویت فوردی ",
+  "ButtonCancell": "",
   "Closure": "true",
   "Show": "on"
 }
